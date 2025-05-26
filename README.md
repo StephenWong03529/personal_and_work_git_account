@@ -3,7 +3,6 @@ Record to setup two github in one user (Mac)
 
 
 # 1. Generate a separate SSH key for each account:
-    ```
     ssh-keygen -t ed25519 -C "your_first_email@example.com" -f ~/.ssh/id_ed25519_first_account
     ssh-keygen -t ed25519 -C "your_second_email@example.com" -f ~/.ssh/id_ed25519_second_account
 
