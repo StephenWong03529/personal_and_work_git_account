@@ -46,3 +46,6 @@ Record to setup two github in one user (Mac)
 2. Change the remote URL:
    ```
    git remote set-url origin git@[myfirstgithub]:[your_first_github_username]/[your-repo.git]
+
+
+# 5. Update local 
